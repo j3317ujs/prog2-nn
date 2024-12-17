@@ -61,3 +61,4 @@ def test(model,dataloader,loss_fn):
         loss_total += loss.item()
 
     return loss_total / len(dataloader)
+#a
