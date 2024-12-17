@@ -23,3 +23,4 @@ image = transforms.functional.to_dtype(image,dtype=torch.float32,scale=True)
 print(image.shape,image.dtype)
 print(image.min(),image.max())
 #あ
+#aaa
